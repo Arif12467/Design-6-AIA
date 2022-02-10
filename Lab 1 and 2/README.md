@@ -73,6 +73,7 @@ $ uname -a
 $ ifconfig
 ```
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/faa09789f0d38c9e2f1294fee151e242efef5147/Lab%201%20and%202/Photos/ifconfig-donotpost-macaddress.png)
+
 Note: Photo is cropped to not show MAC address
 
 ```ssh
@@ -84,4 +85,5 @@ $ ping localhost
 $ netstat
 ```
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/faa09789f0d38c9e2f1294fee151e242efef5147/Lab%201%20and%202/Photos/netstat-crop.png)
+
 Note: Photo is cropped to not show MAC address
