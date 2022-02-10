@@ -74,7 +74,7 @@ $ ifconfig
 ```
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/faa09789f0d38c9e2f1294fee151e242efef5147/Lab%201%20and%202/Photos/ifconfig-donotpost-macaddress.png)
 
-Note: Photo is cropped to not show MAC address
+Photo is cropped to hide MAC address
 
 ```ssh
 $ ping localhost
@@ -86,4 +86,10 @@ $ netstat
 ```
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/faa09789f0d38c9e2f1294fee151e242efef5147/Lab%201%20and%202/Photos/netstat-crop.png)
 
-Note: Photo is cropped to not show MAC address
+Photo is cropped to hide MAC address
+
+## Lab 1C: Startup Mailer
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/357ba0a9f82e36dbe75ad1820702e9aa4d1e87d3/Lab%201%20and%202/Photos/Lab%201.png)
+
+## Lab 2A: General-purpose input/output (GPIO) and serial communication
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/357ba0a9f82e36dbe75ad1820702e9aa4d1e87d3/Lab%201%20and%202/Photos/lab%202.png)
