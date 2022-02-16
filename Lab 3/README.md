@@ -2,6 +2,13 @@
 ## Python
 
 ```ssh
+$ sudo apt update
+$ sudo apt install python3-pip
+$ pip3 list
+```
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/79fb1de537663dfe2650c688e8bd0efa9f82681f/Lab%203/Photos/sudo-pip3.png)
+
+```ssh
 $ sudo pip3 install -U jdcal astral geopy
 ```
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/d17252f981a6d98475089ca772ffc6d515d80525/Lab%203/Photos/pip%20install.png)
