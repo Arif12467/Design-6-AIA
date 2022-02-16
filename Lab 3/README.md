@@ -59,3 +59,50 @@ $ python3 battery.py
 $ python3 documentstats.py document.txt
 ```
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/05b8306d740f2f42fe6496d4c8d48a4f8f93753e/Lab%203/Photos/documentstats.png)
+
+```ssh
+$ python3 system_info.py
+```
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/6494d0b0be218b14470b264f4b8ecc8efc10701b/Lab%203/Photos/system_info.png)
+
+##Lab 3E: PyPy
+
+```ssh
+$ cd ~/iot/lesson3/pypy
+$ gcc -o test test.c
+$ time ./test
+$ time pypy test.py
+$ time python test.py
+$ time python3 test.py
+$ pypy -m cProfile test.py
+$ python -m cProfile test.py
+```
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/6494d0b0be218b14470b264f4b8ecc8efc10701b/Lab%203/Photos/cd-python_-m.png)
+
+```ssh
+$ python3 -m cProfile test.py
+```
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/6494d0b0be218b14470b264f4b8ecc8efc10701b/Lab%203/Photos/python3_-m.png)
+
+##Lab 3F: Doxygen
+
+```ssh
+$ sudo apt install doxygen html2text
+$ cd ~/demo
+$ cp ~/iot/lesson3/pyexample.py .
+```
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/6494d0b0be218b14470b264f4b8ecc8efc10701b/Lab%203/Photos/sudo-cp.png)
+
+```ssh
+$ doxygen -g doxygen.config
+$ nano doxygen.config
+$ doxygen doxygen.config
+```
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/6494d0b0be218b14470b264f4b8ecc8efc10701b/Lab%203/Photos/doxyegn-doxygen.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/6494d0b0be218b14470b264f4b8ecc8efc10701b/Lab%203/Photos/doxygen_continued.png)
+
+```ssh
+$ cd html
+$ html2text annotated.html
+```
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/6494d0b0be218b14470b264f4b8ecc8efc10701b/Lab%203/Photos/cd-html2text.png)
