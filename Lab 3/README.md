@@ -65,7 +65,7 @@ $ python3 system_info.py
 ```
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/6494d0b0be218b14470b264f4b8ecc8efc10701b/Lab%203/Photos/system_info.png)
 
-##Lab 3E: PyPy
+## Lab 3E: PyPy
 
 ```ssh
 $ cd ~/iot/lesson3/pypy
@@ -84,7 +84,7 @@ $ python3 -m cProfile test.py
 ```
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/6494d0b0be218b14470b264f4b8ecc8efc10701b/Lab%203/Photos/python3_-m.png)
 
-##Lab 3F: Doxygen
+## Lab 3F: Doxygen
 
 ```ssh
 $ sudo apt install doxygen html2text
