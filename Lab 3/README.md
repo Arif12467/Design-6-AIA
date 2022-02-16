@@ -4,7 +4,7 @@
 ```ssh
 $ sudo pip3 install -U jdcal astral geopy
 ```
-![This is an image](Lab 3/Photos/pip install.png)
+![This is an image](Photos/pip install.png)
 
 ```ssh
 $ cd iot
