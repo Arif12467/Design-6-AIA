@@ -30,8 +30,9 @@ $ sudo mysql_secure_installation
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/cb1d7a86950e0f5a27f128888d5405a0a1e9af08/Lab%204/Photos/sudo_apt_install_mariadb-server_mariadb-client-1.png)
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/cb1d7a86950e0f5a27f128888d5405a0a1e9af08/Lab%204/Photos/sudo_apt_install_mariadb-server_mariadb-client-2.png)
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/b5a66b2989805dad38a2f8f24e49f358d0f9c814/Lab%204/Photos/sudo_apt_install_python3-mysqldb.png)
-
-
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/82ccccf333503f61607f45b93d344554ce15e27d/Lab%204/Photos/sudo_pip3_install_-U_mysqlclient.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/82ccccf333503f61607f45b93d344554ce15e27d/Lab%204/Photos/sudo_mysql_secure_installation.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/82ccccf333503f61607f45b93d344554ce15e27d/Lab%204/Photos/sudo_mysql_secure_installation-2.png)
 
 
 ## Lab 4C: Flask
