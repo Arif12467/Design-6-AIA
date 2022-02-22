@@ -142,13 +142,13 @@ $ django-admin startproject mycpu
 $ cd mycpu
 $ ls
 ```
-![This is an image]()
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/c784c653c60c4066b29d63a93ed1bc48f5f644a0/Lab%204/Photos/django-admin_startproject_mycpu.png)
 
 ```ssh
 $ python3 manage.py startapp myapp
 $ ls
 ```
-![This is an image]()
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/c784c653c60c4066b29d63a93ed1bc48f5f644a0/Lab%204/Photos/start_a_django_app.png)
 
 ```ssh
 $ cd mycpu
@@ -181,7 +181,7 @@ $ cp ~/iot/lesson4/mycpu/controller.py .
 $ nano controller.py
 $ sudo pip install -U psutil
 ```
-![This is an image]()
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/c784c653c60c4066b29d63a93ed1bc48f5f644a0/Lab%204/Photos/cd_mycpu-sudo_pip_install_-U_psutil.png)
 
 
 
