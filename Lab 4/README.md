@@ -245,4 +245,38 @@ $ python manage.py runserver 0.0.0.0:8000
 
 ## Lab 4C: Flask
 
-## Lab 4D: LAMP
+### Run Flask server 
+```ssh
+$ cd ~/iot/lesson4
+python3 hello_world.py
+```
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/317bba924c2cafd687e7bc682597e0a5b3d6f754/Lab%204/Photos/cd%20helloworld.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/317bba924c2cafd687e7bc682597e0a5b3d6f754/Lab%204/Photos/Lab%204C%20-1.png)
+
+
+### Install Flask-Ask and Ngrok for Alexa Skill Kit (ASK)
+```ssh
+$ sudo pip3 install -U flask-ask
+$ sudo pip3 install 'cryptography<2.2'
+$ sudo wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip
+$ sudo unzip ngrok-stable-linux-arm.zip
+$ ./ngrok http 5000
+```
+![This is an image]()
+![This is an image]()
+![This is an image]()
+
+
+### Memory Game
+```ssh
+$ cd ~/iot/lesson4
+$ python3 memory_game.py
+```
+![This is an image]()
+
+
+### Open a browser and sign in Alexa Developer Console
+![This is an image]()
+Note: Alexa Developer was broken
+
+
