@@ -273,11 +273,11 @@ $ ./ngrok http 5000
 $ cd ~/iot/lesson4
 $ python3 memory_game.py
 ```
-![This is an image]()
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/2453a434b8a200857de6c57082f44f7247f71d02/Lab%204/Photos/memorygamepy.png)
 
 
 ### Open a browser and sign in Alexa Developer Console
-![This is an image]()
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/2453a434b8a200857de6c57082f44f7247f71d02/Lab%204/Photos/3.png)
 Note: Alexa Developer was broken
 
 
