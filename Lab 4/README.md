@@ -136,7 +136,7 @@ $ python3 manage.py runserver 0.0.0.0:8000
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/c4e3f80c905e25410d3f8847eb610db5eec73e8e/Lab%204/Photos/1.png)
 
 
-
+### Django REST Project "MyCPU"
 
 
 
