@@ -262,9 +262,10 @@ $ sudo wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip
 $ sudo unzip ngrok-stable-linux-arm.zip
 $ ./ngrok http 5000
 ```
-![This is an image]()
-![This is an image]()
-![This is an image]()
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/4c0c8d9ba1aa7049e9618b6c6d17c9febbbbae09/Lab%204/Photos/install_flask-ask.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/4c0c8d9ba1aa7049e9618b6c6d17c9febbbbae09/Lab%204/Photos/install_cryptography.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/4c0c8d9ba1aa7049e9618b6c6d17c9febbbbae09/Lab%204/Photos/ngork%20install.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/4c0c8d9ba1aa7049e9618b6c6d17c9febbbbae09/Lab%204/Photos/ngrok.png)
 
 
 ### Memory Game
