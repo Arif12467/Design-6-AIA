@@ -94,6 +94,37 @@ $ cp ~/iot/lesson4/stevens/index.html .
 ```
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/21bde8b1b3512f228bf45373f2471c03110de6e4/Lab%204/Photos/copy_indexhtml.png)
 
+```ssh
+$ nano index.html
+```
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/1587782f85f5ed5cf2028f5843b202167e814186/Lab%204/Photos/nano%20indexhtml.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/1587782f85f5ed5cf2028f5843b202167e814186/Lab%204/Photos/API_key.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Lab 4C: Flask
 
 ## Lab 4D: LAMP
