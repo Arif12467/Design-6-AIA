@@ -17,6 +17,7 @@ $ sudo pip3 install -U requests
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/651ee6043b2a7871bf19cec2da4a24fef0f8ce3d/Lab%204/Photos/sudo_pip3_-U_setuptools-django-filter.png)
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/47ae546ceabbf7e9b8fda34f5d4026d87dab7f46/Lab%204/Photos/sudo_pip3_install_-U_markdown-requests.png)
 
+
 ### Install MariaDB server and client on Raspberry Pi
 ```ssh
 $ sudo apt update
@@ -34,6 +35,7 @@ $ sudo mysql_secure_installation
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/82ccccf333503f61607f45b93d344554ce15e27d/Lab%204/Photos/sudo_mysql_secure_installation.png)
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/82ccccf333503f61607f45b93d344554ce15e27d/Lab%204/Photos/sudo_mysql_secure_installation-2.png)
 
+
 ### Django Project "Stevens"
 ```ssh
 $ django-admin startproject stevens
@@ -42,11 +44,13 @@ $ ls
 ```
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/d3d2e8bea70164a56152c9e280e9b1c485ae0c1e/Lab%204/Photos/django-admin-ls.png)
 
+
 ```ssh
 $ python3 manage.py startapp myapp
 $ ls
 ```
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/269a51cbe71a742c65db173e0a1919af3039cad6/Lab%204/Photos/python3_managepy_startapp.png)
+
 
 ```ssh
 $ sudo mysql -u root -p
@@ -62,6 +66,7 @@ MariaDB [mysql]> quit
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/269a51cbe71a742c65db173e0a1919af3039cad6/Lab%204/Photos/sudo_mysql_-u_root_-p-create_user.png)
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/269a51cbe71a742c65db173e0a1919af3039cad6/Lab%204/Photos/sudo_mysql_-u_root_-p.png)
 
+
 ```ssh
 $ cd stevens
 $ ls
@@ -70,11 +75,13 @@ $ nano settings.py
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/269a51cbe71a742c65db173e0a1919af3039cad6/Lab%204/Photos/settingspy-nano.png)
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/269a51cbe71a742c65db173e0a1919af3039cad6/Lab%204/Photos/settingspy.png)
 
+
 ```ssh
 $ cp ~/iot/lesson4/stevens/urls.py .
 $ cd ..
 ```
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/21bde8b1b3512f228bf45373f2471c03110de6e4/Lab%204/Photos/copy%20urls.py.png)
+
 
 ```ssh
 $ cd myapp
@@ -85,6 +92,7 @@ $ cp ~/iot/lesson4/stevens/views.py .
 ```
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/21bde8b1b3512f228bf45373f2471c03110de6e4/Lab%204/Photos/copy%20adminpy.png)
 
+
 ```ssh
 $ mkdir static templates
 $ cd templates
@@ -94,11 +102,13 @@ $ cp ~/iot/lesson4/stevens/index.html .
 ```
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/21bde8b1b3512f228bf45373f2471c03110de6e4/Lab%204/Photos/copy_indexhtml.png)
 
+
 ```ssh
 $ nano index.html
 ```
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/1587782f85f5ed5cf2028f5843b202167e814186/Lab%204/Photos/nano%20indexhtml.png)
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/1587782f85f5ed5cf2028f5843b202167e814186/Lab%204/Photos/API_key.png)
+
 
 ```ssh
 $ cd ~/stevens/myapp/static
@@ -110,6 +120,7 @@ $ cp ~/iot/lesson4/static/*js .
 $ cd ~/stevens
 ```
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/c4e3f80c905e25410d3f8847eb610db5eec73e8e/Lab%204/Photos/Copy_static_files.png)
+
 
 ```ssh
 $ python3 manage.py makemigrations myapp
@@ -130,6 +141,7 @@ $ python3 manage.py runserver
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/c4e3f80c905e25410d3f8847eb610db5eec73e8e/Lab%204/Photos/python3_manage.py_runserver.png)
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/c4e3f80c905e25410d3f8847eb610db5eec73e8e/Lab%204/Photos/Running_server.png)
 
+
 ```ssh
 $ python3 manage.py runserver 0.0.0.0:8000
 ```
@@ -144,11 +156,13 @@ $ ls
 ```
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/c784c653c60c4066b29d63a93ed1bc48f5f644a0/Lab%204/Photos/django-admin_startproject_mycpu.png)
 
+
 ```ssh
 $ python3 manage.py startapp myapp
 $ ls
 ```
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/c784c653c60c4066b29d63a93ed1bc48f5f644a0/Lab%204/Photos/start_a_django_app.png)
+
 
 ```ssh
 $ cd mycpu
@@ -207,11 +221,14 @@ $ python3 manage.py runserver
 ```
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/026e0e8f587df76fbef72d034cb8ef8326d04223/Lab%204/Photos/python3-runserver.png)
 
-Dt List
+
+**Dt List**
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/026e0e8f587df76fbef72d034cb8ef8326d04223/Lab%204/Photos/Dt_list.png)
-Cpu List
+
+**Cpu List**
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/026e0e8f587df76fbef72d034cb8ef8326d04223/Lab%204/Photos/Cpu_list.png)
-Mem List
+
+**Mem List**
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/026e0e8f587df76fbef72d034cb8ef8326d04223/Lab%204/Photos/Mem_list.png)
 
 
