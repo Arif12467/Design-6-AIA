@@ -70,8 +70,29 @@ $ nano settings.py
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/269a51cbe71a742c65db173e0a1919af3039cad6/Lab%204/Photos/settingspy-nano.png)
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/269a51cbe71a742c65db173e0a1919af3039cad6/Lab%204/Photos/settingspy.png)
 
+```ssh
+$ cp ~/iot/lesson4/stevens/urls.py .
+$ cd ..
+```
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/21bde8b1b3512f228bf45373f2471c03110de6e4/Lab%204/Photos/copy%20urls.py.png)
 
+```ssh
+$ cd myapp
+$ ls
+$ cp ~/iot/lesson4/stevens/admin.py .
+$ cp ~/iot/lesson4/stevens/models.py .
+$ cp ~/iot/lesson4/stevens/views.py .
+```
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/21bde8b1b3512f228bf45373f2471c03110de6e4/Lab%204/Photos/copy%20adminpy.png)
 
+```ssh
+$ mkdir static templates
+$ cd templates
+$ mkdir myapp
+$ cd myapp
+$ cp ~/iot/lesson4/stevens/index.html .
+```
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/21bde8b1b3512f228bf45373f2471c03110de6e4/Lab%204/Photos/copy_indexhtml.png)
 
 ## Lab 4C: Flask
 
