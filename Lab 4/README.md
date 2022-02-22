@@ -100,23 +100,39 @@ $ nano index.html
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/1587782f85f5ed5cf2028f5843b202167e814186/Lab%204/Photos/nano%20indexhtml.png)
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/1587782f85f5ed5cf2028f5843b202167e814186/Lab%204/Photos/API_key.png)
 
+```ssh
+$ cd ~/stevens/myapp/static
+$ cp ~/iot/lesson4/static/favicon.ico .
+$ mkdir myapp
+$ cd myapp
+$ cp ~/iot/lesson4/static/*css .
+$ cp ~/iot/lesson4/static/*js .
+$ cd ~/stevens
+```
+![This is an image]()
+
+```ssh
+$ python3 manage.py makemigrations myapp
+$ python3 manage.py migrate
+$ python3 manage.py createsuperuser
+Username (leave blank to use 'pi'):
+Email address: 
+Password: 
+Password (again): 
+Superuser created successfully.
+```
+![This is an image]()
 
 
+```ssh
+$ python3 manage.py runserver
+```
+![This is an image]()
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```ssh
+$ python3 manage.py runserver 0.0.0.0:8000
+```
+![This is an image]()
 
 
 
