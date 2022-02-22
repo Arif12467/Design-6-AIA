@@ -109,7 +109,7 @@ $ cp ~/iot/lesson4/static/*css .
 $ cp ~/iot/lesson4/static/*js .
 $ cd ~/stevens
 ```
-![This is an image]()
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/c4e3f80c905e25410d3f8847eb610db5eec73e8e/Lab%204/Photos/Copy_static_files.png)
 
 ```ssh
 $ python3 manage.py makemigrations myapp
@@ -121,18 +121,19 @@ Password:
 Password (again): 
 Superuser created successfully.
 ```
-![This is an image]()
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/c4e3f80c905e25410d3f8847eb610db5eec73e8e/Lab%204/Photos/python3_managpy_stevens.png)
 
 
 ```ssh
 $ python3 manage.py runserver
 ```
-![This is an image]()
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/c4e3f80c905e25410d3f8847eb610db5eec73e8e/Lab%204/Photos/python3_manage.py_runserver.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/c4e3f80c905e25410d3f8847eb610db5eec73e8e/Lab%204/Photos/Running_server.png)
 
 ```ssh
 $ python3 manage.py runserver 0.0.0.0:8000
 ```
-![This is an image]()
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/c4e3f80c905e25410d3f8847eb610db5eec73e8e/Lab%204/Photos/1.png)
 
 
 
