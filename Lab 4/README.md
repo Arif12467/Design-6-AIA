@@ -1,4 +1,4 @@
-# Lab 4 [WIP]
+# Lab 4 
 ## Labs 4A and 4B: Django and Django REST
 
 ### Install Django and Django REST framework on Raspberry Pi
@@ -279,5 +279,3 @@ $ python3 memory_game.py
 ### Open a browser and sign in Alexa Developer Console
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/2453a434b8a200857de6c57082f44f7247f71d02/Lab%204/Photos/3.png)
 Note: Alexa Developer was broken
-
-
