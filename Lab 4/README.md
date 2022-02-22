@@ -116,7 +116,7 @@ $ python3 manage.py makemigrations myapp
 $ python3 manage.py migrate
 $ python3 manage.py createsuperuser
 Username (leave blank to use 'pi'):
-Email address: 
+Email address: aamzad@stevens.edu
 Password: 
 Password (again): 
 Superuser created successfully.
@@ -182,6 +182,41 @@ $ nano controller.py
 $ sudo pip install -U psutil
 ```
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/c784c653c60c4066b29d63a93ed1bc48f5f644a0/Lab%204/Photos/cd_mycpu-sudo_pip_install_-U_psutil.png)
+
+
+```ssh
+$ python3 manage.py makemigrations myapp
+$ python3 manage.py migrate
+```
+![This is an image]()
+
+
+```ssh
+$ python3 manage.py createsuperuser
+Username (leave blank to use '_'): admin
+Email address: aamzad@stevens.edu
+Password: 
+Password (again): 
+The password is too similar to the username.
+This password is too short. It must contain at least 8 characters.
+This password is too common.
+Bypass password validation and create user anyway? [y/N]: y
+Superuser created successfully.
+
+$ python3 manage.py runserver
+```
+![This is an image]()
+
+Dt List
+![This is an image]()
+Cpu List
+![This is an image]()
+Mem List
+![This is an image]()
+
+
+
+
 
 
 
