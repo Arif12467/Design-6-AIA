@@ -34,6 +34,14 @@ $ sudo mysql_secure_installation
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/82ccccf333503f61607f45b93d344554ce15e27d/Lab%204/Photos/sudo_mysql_secure_installation.png)
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/82ccccf333503f61607f45b93d344554ce15e27d/Lab%204/Photos/sudo_mysql_secure_installation-2.png)
 
+### Django Project "Stevens"
+```ssh
+$ django-admin startproject stevens
+$ cd stevens
+$ ls
+```
+
+
 
 ## Lab 4C: Flask
 
