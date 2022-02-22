@@ -232,9 +232,15 @@ $ python3 manage.py runserver
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/026e0e8f587df76fbef72d034cb8ef8326d04223/Lab%204/Photos/Mem_list.png)
 
 
+```ssh
+$ python controller.py
+```
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/7a8363fc9dc25f51673dc9ee7749cf5fde3be7a6/Lab%204/Photos/running_server_mycpu.png)
 
-
-
+```ssh
+$ python manage.py runserver 0.0.0.0:8000
+```
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/7a8363fc9dc25f51673dc9ee7749cf5fde3be7a6/Lab%204/Photos/2.png)
 
 
 ## Lab 4C: Flask
