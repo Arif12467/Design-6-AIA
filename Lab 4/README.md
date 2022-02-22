@@ -40,6 +40,36 @@ $ django-admin startproject stevens
 $ cd stevens
 $ ls
 ```
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/d3d2e8bea70164a56152c9e280e9b1c485ae0c1e/Lab%204/Photos/django-admin-ls.png)
+
+```ssh
+$ python3 manage.py startapp myapp
+$ ls
+```
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/269a51cbe71a742c65db173e0a1919af3039cad6/Lab%204/Photos/python3_managepy_startapp.png)
+
+```ssh
+$ sudo mysql -u root -p
+Enter password: PASSWORD
+MariaDB [(none)]> use mysql
+MariaDB [mysql]> select user, host from mysql.user;
+MariaDB [mysql]> create user pi@localhost identified by 'PASSWORD';
+MariaDB [mysql]> show databases;
+MariaDB [mysql]> create database stevens;
+MariaDB [mysql]> grant all privileges on stevens.* to pi@localhost;
+MariaDB [mysql]> quit
+```
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/269a51cbe71a742c65db173e0a1919af3039cad6/Lab%204/Photos/sudo_mysql_-u_root_-p-create_user.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/269a51cbe71a742c65db173e0a1919af3039cad6/Lab%204/Photos/sudo_mysql_-u_root_-p.png)
+
+```ssh
+$ cd stevens
+$ ls
+$ nano settings.py
+```
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/269a51cbe71a742c65db173e0a1919af3039cad6/Lab%204/Photos/settingspy-nano.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/269a51cbe71a742c65db173e0a1919af3039cad6/Lab%204/Photos/settingspy.png)
+
 
 
 
