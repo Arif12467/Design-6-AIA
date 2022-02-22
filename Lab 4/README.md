@@ -188,7 +188,7 @@ $ sudo pip install -U psutil
 $ python3 manage.py makemigrations myapp
 $ python3 manage.py migrate
 ```
-![This is an image]()
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/026e0e8f587df76fbef72d034cb8ef8326d04223/Lab%204/Photos/python_managepy.png)
 
 
 ```ssh
@@ -205,14 +205,14 @@ Superuser created successfully.
 
 $ python3 manage.py runserver
 ```
-![This is an image]()
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/026e0e8f587df76fbef72d034cb8ef8326d04223/Lab%204/Photos/python3-runserver.png)
 
 Dt List
-![This is an image]()
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/026e0e8f587df76fbef72d034cb8ef8326d04223/Lab%204/Photos/Dt_list.png)
 Cpu List
-![This is an image]()
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/026e0e8f587df76fbef72d034cb8ef8326d04223/Lab%204/Photos/Cpu_list.png)
 Mem List
-![This is an image]()
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/026e0e8f587df76fbef72d034cb8ef8326d04223/Lab%204/Photos/Mem_list.png)
 
 
 
