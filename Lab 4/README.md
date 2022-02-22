@@ -137,8 +137,51 @@ $ python3 manage.py runserver 0.0.0.0:8000
 
 
 ### Django REST Project "MyCPU"
+```ssh
+$ django-admin startproject mycpu
+$ cd mycpu
+$ ls
+```
+![This is an image]()
 
+```ssh
+$ python3 manage.py startapp myapp
+$ ls
+```
+![This is an image]()
 
+```ssh
+$ cd mycpu
+$ ls
+$ nano settings.py
+$ cp ~/iot/lesson4/mycpu/urls.py .
+$ cd ..
+$ cd myapp
+$ ls
+$ cp ~/iot/lesson4/mycpu/admin.py .
+$ cp ~/iot/lesson4/mycpu/models.py .
+$ cp ~/iot/lesson4/mycpu/views.py .
+$ cp ~/iot/lesson4/mycpu/serializers.py .
+$ nano views.py
+$ mkdir static templates
+$ cd templates
+$ mkdir myapp
+$ cd myapp
+$ cp ~/iot/lesson4/mycpu/index.html .
+$ nano index.html
+$ cd ~/mycpu/myapp/static
+$ cp ~/iot/lesson4/static/favicon.ico .
+$ mkdir myapp
+$ cd myapp
+$ cp ~/iot/lesson4/static/*css .
+$ cp ~/iot/lesson4/static/*js .
+$ cd ~/mycpu
+$ ls
+$ cp ~/iot/lesson4/mycpu/controller.py .
+$ nano controller.py
+$ sudo pip install -U psutil
+```
+![This is an image]()
 
 
 
