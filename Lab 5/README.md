@@ -40,29 +40,13 @@ $ python3 client.py
 Terminal 1 
 ```sh
 $ python3 sub.py
-```
-Terminal 2
-```sh
-$ python3 pub.py
-```
-
-
-Terminal 1 
-```sh
 $ python3 sub-multiple.py
-```
-Terminal 2
-```sh
-$ python3 pub-multiple.py
-```
-
-
-Terminal 1
-```sh
 $ python3 subcpu.py
 ```
 Terminal 2
 ```sh
+$ python3 pub.py
+$ python3 pub-multiple.py
 $ python3 pubcpu.py
 ```
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/1a306a8486fa4e6548d908fa3425920ba91fb620/Lab%205/Photos/paho_run.png)
