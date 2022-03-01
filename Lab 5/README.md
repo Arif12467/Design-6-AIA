@@ -1,6 +1,6 @@
 # Lab 5
 ## Lab 5B: Eclipse Mosquitto and Eclipse Paho
-
+### Eclipse Mosquitto
 ```ssh
 $ sudo apt update
 $ sudo apt install mosquitto mosquitto-clients
@@ -28,6 +28,7 @@ $ mosquitto_pub -h localhost -t test/topic -m "Hello"
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/1a306a8486fa4e6548d908fa3425920ba91fb620/Lab%205/Photos/mosquitto_run.png)
 
 
+### Eclipse Paho
 ```sh
 $ sudo pip3 install -U paho-mqtt
 $ git clone https://github.com/eclipse/paho.mqtt.python.git
