@@ -8,6 +8,8 @@ $ node -h
 $ cd ~/iot/lesson6
 $ node hello.js
 ```
+![This is an image]()
+
 
 ## Lab 6B: Pystache
 
@@ -18,3 +20,4 @@ $ cat say_hello.mustache
 $ cat say_hello.py
 $ python3 say_hello.py
 ```
+![This is an image]()
