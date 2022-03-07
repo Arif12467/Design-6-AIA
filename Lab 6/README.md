@@ -1,4 +1,4 @@
-# Lab 6 [WIP]
+# Lab 6
 ## Lab 6A: Node.js
 
 ```ssh
