@@ -11,7 +11,7 @@ $ node http.js
 ```
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/4c07daef4c113cd13e17636f4d842567bc506414/Lab%206/Photos/Node_js_1.png)
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/4c07daef4c113cd13e17636f4d842567bc506414/Lab%206/Photos/Node_js_2.png)
-![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/4c07daef4c113cd13e17636f4d842567bc506414/Lab%206/Photos/Node_js_3.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/bb457738fb2360150e841452cfe0684c5c11121b/Lab%206/Photos/Node_js_3.png)
 
 ### hello.js
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/4c07daef4c113cd13e17636f4d842567bc506414/Lab%206/Photos/hello_world_js.png)
