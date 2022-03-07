@@ -7,9 +7,17 @@ $ npm -v
 $ node -h
 $ cd ~/iot/lesson6
 $ node hello.js
+$ node http.js
 ```
 ![This is an image]()
+![This is an image]()
+![This is an image]()
 
+### hello.js
+![This is an image]()
+
+### http.js
+![This is an image]()
 
 ## Lab 6B: Pystache
 
