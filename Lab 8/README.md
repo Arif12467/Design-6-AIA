@@ -13,15 +13,14 @@ $ sudo pip3 install --only-binary :all: -U scikit-learn
 $ sudo pip3 install -U tensorflow
 $ sudo pip3 install -U keras==2.3.1
 ```
-![This is an image]()
-![This is an image]()
-![This is an image]()
-![This is an image]()
-![This is an image]()
-![This is an image]()
-![This is an image]()
-![This is an image]()
-![This is an image]()
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/881f3979a13f928acd4b0837c5fa3374d19f3dd7/Lab%208/Photos/Lab%208A%201.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/881f3979a13f928acd4b0837c5fa3374d19f3dd7/Lab%208/Photos/Lab%208A%202.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/881f3979a13f928acd4b0837c5fa3374d19f3dd7/Lab%208/Photos/Lab%208A%203.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/881f3979a13f928acd4b0837c5fa3374d19f3dd7/Lab%208/Photos/Lab%208A%204.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/881f3979a13f928acd4b0837c5fa3374d19f3dd7/Lab%208/Photos/Lab%208A%205.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/881f3979a13f928acd4b0837c5fa3374d19f3dd7/Lab%208/Photos/Lab%208A%206.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/881f3979a13f928acd4b0837c5fa3374d19f3dd7/Lab%208/Photos/Lab%208A%207.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/881f3979a13f928acd4b0837c5fa3374d19f3dd7/Lab%208/Photos/Lab%208A%209.png)
 
 Note: NumPy install crashed.
 
@@ -35,8 +34,8 @@ $ cd ~/demo
 $ python3 titanic_1.py
 $ python3 titanic_2.py
 ```
-![This is an image]()
-![This is an image]()
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/881f3979a13f928acd4b0837c5fa3374d19f3dd7/Lab%208/Photos/Lab%208A%20titanic.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/881f3979a13f928acd4b0837c5fa3374d19f3dd7/Lab%208/Photos/Figure_1_titanic.png)
 
 
 ## Lab 8B: Data Analysis
@@ -52,7 +51,7 @@ $ python3 plt_cv2.py
 ```
 Note: Error with $ python3 plt_cv2.py 
 
-![This is an image]()
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/881f3979a13f928acd4b0837c5fa3374d19f3dd7/Lab%208/Photos/Lab%208B%201.png)
 ## Figures
 ![This is an image]()
 ![This is an image]()
