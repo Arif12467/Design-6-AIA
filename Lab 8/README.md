@@ -56,9 +56,11 @@ Note: Error with $ python3 plt_cv2.py
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/881f3979a13f928acd4b0837c5fa3374d19f3dd7/Lab%208/Photos/Lab%208B%201.png)
 
 ### Figures
-![This is an image]()
-![This is an image]()
-![This is an image]()
-![This is an image]()
-![This is an image]()
-![This is an image]()
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/2cc6a0fbf8446eaa53b285e7bf4b3368729c4095/Lab%208/Photos/Figure_1.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/2cc6a0fbf8446eaa53b285e7bf4b3368729c4095/Lab%208/Photos/Figure_2.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/2cc6a0fbf8446eaa53b285e7bf4b3368729c4095/Lab%208/Photos/Figure_3.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/2cc6a0fbf8446eaa53b285e7bf4b3368729c4095/Lab%208/Photos/Figure_4.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/2cc6a0fbf8446eaa53b285e7bf4b3368729c4095/Lab%208/Photos/Figure_5.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/2cc6a0fbf8446eaa53b285e7bf4b3368729c4095/Lab%208/Photos/Figure_6.png)
+
+Note: Sample Size was small for rpidata1.csv
