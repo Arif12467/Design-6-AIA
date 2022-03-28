@@ -36,7 +36,7 @@ $ python3 titanic_2.py
 ```
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/881f3979a13f928acd4b0837c5fa3374d19f3dd7/Lab%208/Photos/Lab%208A%20titanic.png)
 
-### Passengers vs Class Figure
+### Number of Passengers vs Passengers Class Figure
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/881f3979a13f928acd4b0837c5fa3374d19f3dd7/Lab%208/Photos/Figure_1_titanic.png)
 
 
