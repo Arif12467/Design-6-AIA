@@ -70,4 +70,4 @@ $ sudo pip3 install --prefer-binary 'qiskit[visualization]==0.23.1'
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/4142718f4e689dcb727078f97422d0cf5a2eb992/Lab%209/Photos/Lab%209B%202.png)
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/4142718f4e689dcb727078f97422d0cf5a2eb992/Lab%209/Photos/Lab%209B%203.png)
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/4142718f4e689dcb727078f97422d0cf5a2eb992/Lab%209/Photos/Lab%209B%204.png)
-Note: ```ssh $ sudo pip3 install --prefer-binary 'qiskit[visualization]==0.23.1'``` failed and the lab ended here since the python code required this install.
+Note: the lab ended here since the python example code had too many errors because of NumPy.
