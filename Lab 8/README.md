@@ -52,7 +52,7 @@ $ python3 plt_cv2.py
 ```
 Note: Error with $ python3 plt_cv2.py
 
-Resolved: Updated NumPy to 1.21.0, pandas, SciPy, and NumExpr. Additional modified plt_cv2.py line 11 from cv=10 to cv=9.
+Resolved: Updated NumPy, SciPy, NumExpr, and pandas. Additional modified plt_cv2.py line 11 from cv=10 to cv=9.
 
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/881f3979a13f928acd4b0837c5fa3374d19f3dd7/Lab%208/Photos/Lab%208B%201.png)
 
