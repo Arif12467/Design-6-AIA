@@ -10,6 +10,6 @@ Raspberry Pi 4 Model B
 ## Raspberry Pi OverClocked
 Raspberry Pi 4 Model B was overclocked to 2.147 GHz on CPU and 750 MHz on GPU
 * [GeeekPi ICE Tower Fan RGB Cooling Fan with Case](https://www.amazon.com/GeeekPi-Raspberry-Tower-Cooling-Heatsink/dp/B081HBS1SH/ref=sr_1_8?keywords=raspberry+pi+cooler&qid=1649043320&sr=8-8)
-* [Overclocking Guide (Proceed at Own Risk)](https://www.seeedstudio.com/blog/2020/02/12/how-to-safely-overclock-your-raspberry-pi-4-to-2-147ghz/)
+* [Overclocking Guide (Proceed at your Own Risk)](https://www.seeedstudio.com/blog/2020/02/12/how-to-safely-overclock-your-raspberry-pi-4-to-2-147ghz/)
 
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/7bbfb1856a393251f89d37b4cd4c12f487bf5c61/Photos/Overclocked.JPG)
