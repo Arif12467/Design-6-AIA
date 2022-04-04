@@ -69,5 +69,7 @@ $ sudo pip3 install --prefer-binary 'qiskit[visualization]==0.23.1'
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/4142718f4e689dcb727078f97422d0cf5a2eb992/Lab%209/Photos/Lab%209B%201.png)
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/4142718f4e689dcb727078f97422d0cf5a2eb992/Lab%209/Photos/Lab%209B%202.png)
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/4142718f4e689dcb727078f97422d0cf5a2eb992/Lab%209/Photos/Lab%209B%203.png)
-![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/4142718f4e689dcb727078f97422d0cf5a2eb992/Lab%209/Photos/Lab%209B%204.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/339e3bfabfa84b38702e9ae6001481776ac17f64/Lab%209/Photos/Lab%209B%204.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/339e3bfabfa84b38702e9ae6001481776ac17f64/Lab%209/Photos/Lab%209B%205.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/339e3bfabfa84b38702e9ae6001481776ac17f64/Lab%209/Photos/Lab%209B%206.png)
 Note: the lab ended here since the python example code had too many errors because of NumPy.
