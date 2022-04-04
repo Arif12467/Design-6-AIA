@@ -17,16 +17,14 @@ $ cd ~/iot/lesson10
 $ cat snakecoin.py
 $ python3 snakecoin.py
 ```
-![This is an image]()
-![This is an image]()
-![This is an image]()
-![This is an image]()
-![This is an image]()
-![This is an image]()
-![This is an image]()
-![This is an image]()
-![This is an image]()
-
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/91e8bc960eca155be0b933e3e40ffc3fa5db3993/Lab%2010/Photos/Lab%2010A%201.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/91e8bc960eca155be0b933e3e40ffc3fa5db3993/Lab%2010/Photos/Lab%2010A%202.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/91e8bc960eca155be0b933e3e40ffc3fa5db3993/Lab%2010/Photos/Lab%2010A%203.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/91e8bc960eca155be0b933e3e40ffc3fa5db3993/Lab%2010/Photos/Lab%2010A%204.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/91e8bc960eca155be0b933e3e40ffc3fa5db3993/Lab%2010/Photos/Lab%2010A%205.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/91e8bc960eca155be0b933e3e40ffc3fa5db3993/Lab%2010/Photos/Lab%2010A%206.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/91e8bc960eca155be0b933e3e40ffc3fa5db3993/Lab%2010/Photos/Lab%2010A%207.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/91e8bc960eca155be0b933e3e40ffc3fa5db3993/Lab%2010/Photos/Lab%2010A%208.png)
 
 #### Terminal 1
 ```sh
@@ -44,10 +42,10 @@ $ curl localhost:5000/mine
 
 Note: I originally got an error but this was resolved by updating Flask.
 
-![This is an image]()
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/91e8bc960eca155be0b933e3e40ffc3fa5db3993/Lab%2010/Photos/Lab%2010A%209.png)
 
 ### SnakeCoin Server
-![This is an image]()
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/91e8bc960eca155be0b933e3e40ffc3fa5db3993/Lab%2010/Photos/Website%201.png)
 
 #### Terminal 1
 ```sh
@@ -62,11 +60,11 @@ $ cd ~/python_blockchain_app
 $ python3 run_app.py
 ```
 
-![This is an image]()
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/91e8bc960eca155be0b933e3e40ffc3fa5db3993/Lab%2010/Photos/Lab%2010A%2010.png)
 
 ### Blockchain Server
-![This is an image]()
-![This is an image]()
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/91e8bc960eca155be0b933e3e40ffc3fa5db3993/Lab%2010/Photos/Website%202.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/91e8bc960eca155be0b933e3e40ffc3fa5db3993/Lab%2010/Photos/Website%203.png)
 
 ## Lab 10B: PyOTA
 ```sh
@@ -76,4 +74,4 @@ $ cat iri_node_info.py
 $ python3 iri_node_info.py
 $ cd
 ```
-![This is an image]()
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/91e8bc960eca155be0b933e3e40ffc3fa5db3993/Lab%2010/Photos/Lab%2010B%201.png)
