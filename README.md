@@ -9,4 +9,5 @@ Raspberry Pi 4 Model B
 
 ## Raspberry Pi OverClocked
 Raspberry Pi 4 Model B was overclocked to 2.147 GHz on CPU and 750 MHz on GPU
+* 
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/7bbfb1856a393251f89d37b4cd4c12f487bf5c61/Photos/Overclocked.JPG)
