@@ -57,12 +57,10 @@ Resolved: Updated NumPy, SciPy, NumExpr, and pandas. Additional modified plt_cv2
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/881f3979a13f928acd4b0837c5fa3374d19f3dd7/Lab%208/Photos/Lab%208B%201.png)
 
 ### Figures
-![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/2cc6a0fbf8446eaa53b285e7bf4b3368729c4095/Lab%208/Photos/Figure_1.png)
-![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/2cc6a0fbf8446eaa53b285e7bf4b3368729c4095/Lab%208/Photos/Figure_2.png)
-![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/2cc6a0fbf8446eaa53b285e7bf4b3368729c4095/Lab%208/Photos/Figure_3.png)
-![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/2cc6a0fbf8446eaa53b285e7bf4b3368729c4095/Lab%208/Photos/Figure_4.png)
-![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/2cc6a0fbf8446eaa53b285e7bf4b3368729c4095/Lab%208/Photos/Figure_5.png)
-![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/2cc6a0fbf8446eaa53b285e7bf4b3368729c4095/Lab%208/Photos/Figure_6.png)
-![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/f5c3b9c471f07de5dda93f8b2b79140fd9bf2ac6/Lab%208/Photos/Figure_7.png)
-
-Note: Sample Size was small for rpidata1.csv
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/d3d372ce349950aabd75fd9b3070ee492e047292/Lab%208/Photos/L8Figure_1.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/d3d372ce349950aabd75fd9b3070ee492e047292/Lab%208/Photos/L8Figure_2.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/d3d372ce349950aabd75fd9b3070ee492e047292/Lab%208/Photos/L8Figure_3.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/d3d372ce349950aabd75fd9b3070ee492e047292/Lab%208/Photos/L8Figure_4.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/d3d372ce349950aabd75fd9b3070ee492e047292/Lab%208/Photos/L8Figure_5.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/d3d372ce349950aabd75fd9b3070ee492e047292/Lab%208/Photos/L8Figure_6.png)
+![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/d3d372ce349950aabd75fd9b3070ee492e047292/Lab%208/Photos/L8Figure_7.png)
