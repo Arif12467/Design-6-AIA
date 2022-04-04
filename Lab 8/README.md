@@ -22,7 +22,6 @@ $ sudo pip3 install -U keras==2.3.1
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/881f3979a13f928acd4b0837c5fa3374d19f3dd7/Lab%208/Photos/Lab%208A%207.png)
 ![This is an image](https://github.com/Arif12467/Design-6-AIA/blob/881f3979a13f928acd4b0837c5fa3374d19f3dd7/Lab%208/Photos/Lab%208A%209.png)
 
-Note: NumPy install crashed.
 
 ### Titanic Example
 ```ssh
